@@ -6,7 +6,7 @@ Final Project Developed in Class with Python
 
 This project, developed as the final assignment for my Certificate of Higher Education in Multiplatform Application Development, aimed to create a neural network trained to detect specific themes in reggaeton-trap songs using an Excel dataset. Additionally, the project includes a program for descriptive and exploratory analysis, generating graphs and visualizations (Python and related libraries for training and data analysis).
 
-# Autor 👩🏻‍💻
+# Author 👩🏻‍💻
 
 **Sandra Marcos Recio**
 
