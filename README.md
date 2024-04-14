@@ -1,6 +1,6 @@
 #  Song-Analysis-Project
 
-Final Project Developed in Class with Python
+Final Project Developed in Class with Python.
 
 # Description 🎵
 
@@ -15,7 +15,7 @@ This project, developed as the final assignment for my Certificate of Higher Edu
 # Features 🧬📊
 
 - Neural Network: Developed a neural network for detecting themes in reggaeton-trap songs.
-- Binary Data Matrix: Manually created a binary matrix indicating the presence or absence of themes in songs, as the network did not achieve minimum reliability due to the limited amount of data
+- Binary Data Matrix: Manually created a binary matrix indicating the presence or absence of themes in songs, as the network did not achieve minimum reliability due to the limited amount of data.
 - Descriptive Analysis: Implemented a program for descriptive and exploratory analysis of song themes through a binary data matrix.
   
 # Technologies 🛠️
