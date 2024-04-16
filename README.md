@@ -32,7 +32,8 @@ This project, developed as the final assignment for my Certificate of Higher Edu
 
 - Clone this repository.
 - Ensure you have Python and the required libraries installed.
-- Run the provided Python scripts for data analysis and visualization.
+- Run the provided Python scripts for network training and for data analysis and visualization.
+- For any questions or assistance, feel free to contact me.
 
 # Inspiration 💭
 
